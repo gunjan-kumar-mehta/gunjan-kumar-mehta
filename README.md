@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there👋+It's+been+a+while)](https://git.io/typing-svg)
+
 
 <h1 align="center">Hi 👋, I'm Gunjan Kumar Mehta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
