@@ -1,14 +1,15 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there👋+It's+been+a+while)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi 👋, I'm Gunjan Kumar Mehta</h1>
+<h1 align="center">I'm Gunjan Kumar Mehta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan-kumar-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan-kumar-mehta" /> </p>
+- 🌱 I’m currently working at **Core Value Tech, Noida**
 
-- 🌱 I’m currently learning **JavaScript, NodeJS, GraphQL**
+- 🌱 I’m currently learning **Project Management, GoLang  NodeJS **
 
-- 💬 Ask me about **Java, SpringBoot,Spring Batch, REST, Keycloak, ELK, Kafka, Redis, Docker, Gitlab**
+- 💬 Ask me about **Java, SpringBoot,Spring Batch, REST, GraphQL Keycloak, ELK, Kafka, Redis, Docker, Gitlab**
 
 - 📫 How to reach me **gunjanmehta61@gmail.com**
 
